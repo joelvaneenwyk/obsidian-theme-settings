@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-minimal-settings",
-	"name": "Minimal Theme Settings",
-	"version": "7.3.0",
-	"minAppVersion": "1.1.9",
-	"description": "Change the colors, fonts and features of Minimal Theme.",
-	"author": "@kepano",
-	"authorUrl": "https://www.twitter.com/kepano",
-	"fundingUrl": "https://www.buymeacoffee.com/kepano",
-	"isDesktopOnly": false
+  "manifest_version": 3,
+  "id": "mycoshiro-theme-settings",
+  "name": "Mycoshiro Theme Settings",
+  "version": "7.2.2",
+  "minAppVersion": "1.1.9",
+  "description": "Change the colors, fonts and features of Mycoshiro Theme.",
+  "author": "Joel Van Eenwyk",
+  "authorUrl": "https://github.com/joelvaneenwyk/",
+  "isDesktopOnly": false
 }
