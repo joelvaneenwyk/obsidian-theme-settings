@@ -8,13 +8,10 @@ Support the development of my plugins and themes **@kepano** on [Twitter](https:
 
 <a href="https://www.buymeacoffee.com/kepano"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kepano&button_colour=6a8695&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-
 ## Usage
 
 - Requires Minimal Theme
 - Works with [Hider Plugin](https://github.com/kepano/obsidian-hider) to simplify the Obsidian UI by removing the menu ribbon, tooltips, title bar, scrollbars, etc. This functionality was previously included in Minimal Theme but has now been separated out.
-
-
 
 ## Settings
 
@@ -36,7 +33,6 @@ Switch between preset color schemes or create your own using Style Settings plug
 - Solarized
 - Things
 
-
 ### Background styles
 
 Several alternate light/dark mode background are availably. These options can be toggled via hotkeys
@@ -54,7 +50,6 @@ Several alternate light/dark mode background are availably. These options can be
 - Custom icons
 - Image grids
 - Width settings for tables, images and iframes
-
 
 ## Hotkeys
 
