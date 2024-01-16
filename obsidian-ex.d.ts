@@ -2,6 +2,10 @@ import 'obsidian';
 
 // allows for the removal of the any cast by defining some extra properties for Typescript so it knows these properties exist
 declare module 'obsidian' {
+  export interface Command {
+    id: string;
+  }
+
   export interface ObsidianCommandInterface {
     executeCommandById(id: string): void;
     commands: {
